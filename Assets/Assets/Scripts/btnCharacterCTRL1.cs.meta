@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3fe87763dbd0ea246bf2ff4f4d0a7cce
+timeCreated: 1492536271
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MageSprite: {fileID: 21300012, guid: 5167e99f796ec584bb363353b58aa402, type: 3}
+  - WarriorSprite: {fileID: 21300014, guid: 0c61a0cc7aa73164aae724427cf4e4ee, type: 3}
+  - WarriorStats: {fileID: 21300000, guid: c3e74381f75acb44399e732afe52529c, type: 3}
+  - MageStats: {fileID: 21300000, guid: 86ac5e0d71c2c5f4ca66963cb44a825f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
